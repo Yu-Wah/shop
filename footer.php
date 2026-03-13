@@ -1,0 +1,1 @@
+<p>&copy; <?php echo date('Y'); ?> 2025 Your name. All rights reserved.</p>
